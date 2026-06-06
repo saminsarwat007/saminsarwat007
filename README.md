@@ -75,12 +75,12 @@
 ### 📊 GitHub Analytics & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saminsarwat007&show_icons=true&theme=tokyonight&hide_border=true" alt="Samin's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saminsarwat007&layout=compact&theme=tokyonight&hide_border=true" alt="Samin's Top Languages" width="48%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saminsarwat007&show_icons=true&theme=tokyonight&hide_border=true" alt="Samin's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saminsarwat007&layout=compact&theme=tokyonight&hide_border=true" alt="Samin's Top Languages" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saminsarwat007&theme=tokyonight&hide_border=true" alt="Samin's Commit Streak" width="97%">
+  <img src="https://streak-stats.demolab.com/?user=saminsarwat007&theme=tokyonight&hide_border=true" alt="Samin's Commit Streak" width="97%">
 </p>
 
 ---
